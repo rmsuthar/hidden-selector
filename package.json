@@ -1,0 +1,24 @@
+{
+  "name": "isvisible",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmsuthar/isVisible.git"
+  },
+  "keywords": ["isvisible","visible","element"],
+  "author": "Ravindra M. Suthar <ravindra.suthar@me.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmsuthar/isVisible/issues"
+  },
+  "homepage": "https://github.com/rmsuthar/isVisible#readme",
+  "devDependencies": {
+    "lite-server": "2.6.1",
+    "typescript": "4.2.4"
+  }
+}
