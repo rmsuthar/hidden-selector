@@ -16,6 +16,6 @@ npm start
 
 To initiate focus in container.
 ``` javascript
-let isSelector = new isVisible(); //Initiate selector
-isSelector(".registerButton"); // Returns true or false;
+let selectorToCheck = new isVisible(); //Initiate selector
+selectorToCheck(".registerButton"); // Returns true or false;
 ```
