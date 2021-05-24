@@ -1,8 +1,8 @@
 {
-  "name": "isvisible",
+  "name": "hidden-selector",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/isHidden.js",
   "scripts": {
     "start": "lite-server",
     "build":"tsc"

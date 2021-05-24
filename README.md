@@ -1,4 +1,4 @@
-# isVisible
+# isHidden
 
 This utility developed to find element visible or not.
 
@@ -16,6 +16,6 @@ npm start
 
 To initiate focus in container.
 ``` javascript
-let selectorToCheck = new isVisible(); //Initiate selector
+let selectorToCheck = new isHidden(); //Initiate selector
 selectorToCheck(".registerButton"); // Returns true or false;
 ```
