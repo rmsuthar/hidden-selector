@@ -1,4 +1,4 @@
-# isHidden
+# Hidden selector
 
 This utility developed to find element visible or not.
 
