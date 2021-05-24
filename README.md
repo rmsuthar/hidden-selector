@@ -5,9 +5,9 @@ This utility developed to find element visible or not.
 ## Installation
 
 ```sh
-npm install typescript -g
 npm install
-npm start
+npm start // to start server
+npm build // to build ts
 
 ```
 
